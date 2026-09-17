@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://sugarkrafts12-commits.github.io/sugar-krafts-new/sitemap.xml
